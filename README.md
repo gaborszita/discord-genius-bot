@@ -1,3 +1,5 @@
 # Discord Genius Bot
 
-My discord bot's code will be uploaded soon, currently I'm finalizing everything and fixing minor design issues.
+The Discord bot's source code has been uploaded. 
+It can be found [here](https://github.com/gaborszita/discord-genius-bot-bot).
+Other codebases are still being finalized and are expected to be uploaded soon.
